@@ -1,0 +1,226 @@
+# Compile of M31HDSP200GB180W_4096X8X1CM16.vhd was successful.
+# Compile of aftab_testbench.v was successful.
+# Compile of Sram_ready_generator.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.aftab_testbench
+# vsim -gui work.aftab_testbench 
+# Start time: 16:34:02 on Jul 25,2025
+# Loading work.aftab_testbench
+# Loading work.aftab_core
+# Loading work.aftab_datapath
+# Loading work.aftab_CSR_address_ctrl
+# Loading work.aftab_registerFile
+# Loading work.aftab_register
+# Loading work.aftab_immSelSignExt
+# Loading work.aftab_adder
+# Loading work.aftab_mux2to1_2sel
+# Loading work.aftab_LLU
+# Loading work.aftab_BSU
+# Loading work.decoder
+# Loading work.aftab_comparator
+# Loading work.aftab_adder_subtractor
+# Loading work.aftab_AAU
+# Loading work.aftab_booth_multiplier
+# Loading work.aftab_booth_datapath
+# Loading work.aftab_shift_right_register
+# Loading work.aftab_booth_controller
+# Loading work.aftab_counter
+# Loading work.aftab_signed_divider
+# Loading work.aftab_TCL
+# Loading work.aftab_divider
+# Loading work.aftab_divider_datapath
+# Loading work.aftab_shift_left_register
+# Loading work.aftab_divider_controller
+# Loading work.aftab_MEM_DAWU
+# Loading work.aftab_DAWU_datapath
+# Loading work.aftab_mux4to1
+# Loading work.aftab_DAWU_errorDetector
+# Loading work.aftab_DAWU_controller
+# Loading work.aftab_MEM_DARU
+# Loading work.aftab_DARU_datapath
+# Loading work.aftab_decoder2to4
+# Loading work.aftab_opt_adder
+# Loading work.aftab_DARU_errorDetector
+# Loading work.aftab_DARU_controller
+# Loading work.aftab_sulu
+# Loading work.aftab_CSRISL
+# Loading work.aftab_register_bank
+# Loading work.aftab_CSR_registers
+# Loading work.aftab_CSR_address_logic
+# Loading work.aftab_oneBitReg
+# Loading work.aftab_CSR_counter
+# Loading work.aftab_CSR_addressing_decoder
+# Loading work.aftab_ICCD
+# Loading work.aftab_isagu
+# Loading work.aftab_controller
+# Loading work.address_decoder
+# Loading work.spi_flash_controller
+# Loading work.virtual_flash
+# Loading work.Sram_ready_generator
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.m31hdsp200gb180w_4096x8x1cm16(behavioral)
+add wave -position insertpoint  \
+sim:/aftab_testbench/clk
+add wave -position insertpoint  \
+sim:/aftab_testbench/rst
+add wave -position insertpoint  \
+sim:/aftab_testbench/memDataReady_IM
+add wave -position insertpoint  \
+sim:/aftab_testbench/memDataReady_DM
+add wave -position insertpoint  \
+sim:/aftab_testbench/dataOut_IM
+add wave -position insertpoint  \
+sim:/aftab_testbench/dataOut_DM
+add wave -position insertpoint  \
+sim:/aftab_testbench/memAddr
+add wave -position insertpoint  \
+sim:/aftab_testbench/MUT/datapath/registerFile/register_file
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# ** Note: $stop    : E:/Courses/Semester8/Core/CAs/CA3/modelsim/aftab_testbench.v(144)
+#    Time: 1000040 ns  Iteration: 0  Instance: /aftab_testbench
+# Break in Module aftab_testbench at E:/Courses/Semester8/Core/CAs/CA3/modelsim/aftab_testbench.v line 144
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 16:53:53 on Jul 25,2025, Elapsed time: 0:19:51
+# Errors: 0, Warnings: 5
+# Compile of address_decoder.v was successful.
+# Compile of aftab_testbench.v failed with 13 errors.
+# Compile of spi_pripheral_controller.v was successful.
+# 3 compiles, 1 failed with 13 errors.
+# Compile of aftab_testbench.v was successful.
+vsim -gui work.aftab_testbench
+# vsim -gui work.aftab_testbench 
+# Start time: 17:01:37 on Jul 25,2025
+# Loading work.aftab_testbench
+# Loading work.aftab_core
+# Loading work.aftab_datapath
+# Loading work.aftab_CSR_address_ctrl
+# Loading work.aftab_registerFile
+# Loading work.aftab_register
+# Loading work.aftab_immSelSignExt
+# Loading work.aftab_adder
+# Loading work.aftab_mux2to1_2sel
+# Loading work.aftab_LLU
+# Loading work.aftab_BSU
+# Loading work.decoder
+# Loading work.aftab_comparator
+# Loading work.aftab_adder_subtractor
+# Loading work.aftab_AAU
+# Loading work.aftab_booth_multiplier
+# Loading work.aftab_booth_datapath
+# Loading work.aftab_shift_right_register
+# Loading work.aftab_booth_controller
+# Loading work.aftab_counter
+# Loading work.aftab_signed_divider
+# Loading work.aftab_TCL
+# Loading work.aftab_divider
+# Loading work.aftab_divider_datapath
+# Loading work.aftab_shift_left_register
+# Loading work.aftab_divider_controller
+# Loading work.aftab_MEM_DAWU
+# Loading work.aftab_DAWU_datapath
+# Loading work.aftab_mux4to1
+# Loading work.aftab_DAWU_errorDetector
+# Loading work.aftab_DAWU_controller
+# Loading work.aftab_MEM_DARU
+# Loading work.aftab_DARU_datapath
+# Loading work.aftab_decoder2to4
+# Loading work.aftab_opt_adder
+# Loading work.aftab_DARU_errorDetector
+# Loading work.aftab_DARU_controller
+# Loading work.aftab_sulu
+# Loading work.aftab_CSRISL
+# Loading work.aftab_register_bank
+# Loading work.aftab_CSR_registers
+# Loading work.aftab_CSR_address_logic
+# Loading work.aftab_oneBitReg
+# Loading work.aftab_CSR_counter
+# Loading work.aftab_CSR_addressing_decoder
+# Loading work.aftab_ICCD
+# Loading work.aftab_isagu
+# Loading work.aftab_controller
+# Loading work.address_decoder
+# Loading work.spi_flash_controller
+# Loading work.virtual_flash
+# Loading work.Sram_ready_generator
+# Loading work.spi_pripheral_controller
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_textio(body)
+# Loading work.m31hdsp200gb180w_4096x8x1cm16(behavioral)
+add wave -position insertpoint  \
+sim:/aftab_testbench/spi_pripheral/clk
+add wave -position insertpoint  \
+sim:/aftab_testbench/spi_pripheral/clk \
+sim:/aftab_testbench/spi_pripheral/data_from_cpu \
+sim:/aftab_testbench/spi_pripheral/data_from_Peripheral \
+sim:/aftab_testbench/spi_pripheral/interrupt \
+sim:/aftab_testbench/spi_pripheral/mem_addr \
+sim:/aftab_testbench/spi_pripheral/mem_rd \
+sim:/aftab_testbench/spi_pripheral/mem_rdata \
+sim:/aftab_testbench/spi_pripheral/mem_wdata \
+sim:/aftab_testbench/spi_pripheral/ready
+add wave -position insertpoint  \
+sim:/aftab_testbench/MUT/datapath/registerFile/register_file
+add wave -position 1  sim:/aftab_testbench/spi_pripheral/idle_cpu_read
+add wave -position 2  sim:/aftab_testbench/spi_pripheral/spi_cs
+# Drop insertion failed: sim:/aftab_testbench/spi_pripheral/spi_cs
+# Unrecognized option: "-box" ignored.
+add wave -position 2  sim:/aftab_testbench/spi_pripheral/spi_miso
+# Drop insertion failed: sim:/aftab_testbench/spi_pripheral/spi_miso
+# Unrecognized option: "-box" ignored.
+add wave -position 2  sim:/aftab_testbench/spi_pripheral/spi_mosi
+# Drop insertion failed: sim:/aftab_testbench/spi_pripheral/spi_mosi
+# Unrecognized option: "-box" ignored.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
