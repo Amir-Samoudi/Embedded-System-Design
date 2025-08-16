@@ -1,0 +1,464 @@
+E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/address_decoder.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/address_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module address_decoder
+
+Top level modules:
+	address_decoder
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DAWU_TB.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DAWU_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_DAWU_TB
+
+Top level modules:
+	aftab_DAWU_TB
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DAWU_datapath.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DAWU_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_DAWU_datapath
+
+Top level modules:
+	aftab_DAWU_datapath
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_BSU_TB.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_BSU_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_BSU_TB
+
+Top level modules:
+	aftab_BSU_TB
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_testbench.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_testbench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_testbench
+
+Top level modules:
+	aftab_testbench
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_divider_controller.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_divider_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_divider_controller
+
+Top level modules:
+	aftab_divider_controller
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_LLU.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_LLU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_LLU
+
+Top level modules:
+	aftab_LLU
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/tb_factorial.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/tb_factorial.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_factorial
+
+Top level modules:
+	tb_factorial
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_AAU.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_AAU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_AAU
+
+Top level modules:
+	aftab_AAU
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_registers.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_registers.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_CSR_registers
+
+Top level modules:
+	aftab_CSR_registers
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_register_bank.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_register_bank.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_register_bank
+
+Top level modules:
+	aftab_register_bank
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_addressing_decoder.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_addressing_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_CSR_addressing_decoder
+
+Top level modules:
+	aftab_CSR_addressing_decoder
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DARU_TB.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DARU_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_DARU_TB
+
+Top level modules:
+	aftab_DARU_TB
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_booth_multiplier.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_booth_multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_booth_multiplier
+
+Top level modules:
+	aftab_booth_multiplier
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DAWU_controller.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DAWU_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_DAWU_controller
+
+Top level modules:
+	aftab_DAWU_controller
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/data_memory.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/data_memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_datapath.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_datapath
+
+Top level modules:
+	aftab_datapath
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_oneBitReg.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_oneBitReg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_oneBitReg
+
+Top level modules:
+	aftab_oneBitReg
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_MEM_DAWU.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_MEM_DAWU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_MEM_DAWU
+
+Top level modules:
+	aftab_MEM_DAWU
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/register.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_adder_subtractor.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_adder_subtractor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_adder_subtractor
+
+Top level modules:
+	aftab_adder_subtractor
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_boothTB.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_boothTB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_boothTB
+
+Top level modules:
+	aftab_boothTB
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_check_non_existing.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_check_non_existing.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_check_non_existing
+
+Top level modules:
+	aftab_check_non_existing
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_MEM_DARU.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_MEM_DARU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_MEM_DARU
+
+Top level modules:
+	aftab_MEM_DARU
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_TCL.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_TCL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_TCL
+
+Top level modules:
+	aftab_TCL
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_AAU_TB.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_AAU_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_AAU_TB
+
+Top level modules:
+	aftab_AAU_TB
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DAWU_errorDetector.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DAWU_errorDetector.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_DAWU_errorDetector
+
+Top level modules:
+	aftab_DAWU_errorDetector
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_divider_datapath.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_divider_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_divider_datapath
+
+Top level modules:
+	aftab_divider_datapath
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_register.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_register
+
+Top level modules:
+	aftab_register
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/GPIO_TB.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/GPIO_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module GPIO_tb
+
+Top level modules:
+	GPIO_tb
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_decoder2to4.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_decoder2to4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_decoder2to4
+
+Top level modules:
+	aftab_decoder2to4
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DARU_controller.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DARU_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_DARU_controller
+
+Top level modules:
+	aftab_DARU_controller
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_comparator.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_comparator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_comparator
+
+Top level modules:
+	aftab_comparator
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_immSelSignExt.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_immSelSignExt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_immSelSignExt
+
+Top level modules:
+	aftab_immSelSignExt
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_core.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_core.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_core
+
+Top level modules:
+	aftab_core
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_opt_adder.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_opt_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_opt_adder
+
+Top level modules:
+	aftab_opt_adder
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DARU_datapath.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DARU_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_DARU_datapath
+
+Top level modules:
+	aftab_DARU_datapath
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_controller.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_controller
+
+Top level modules:
+	aftab_controller
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/TB_Accelerator.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/TB_Accelerator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Accelerator
+
+Top level modules:
+	TB_Accelerator
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_address_ctrl.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_address_ctrl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_CSR_address_ctrl
+
+Top level modules:
+	aftab_CSR_address_ctrl
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_isagu.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_isagu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_isagu
+
+Top level modules:
+	aftab_isagu
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/multiplier.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_address_logic.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_address_logic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_CSR_address_logic
+
+Top level modules:
+	aftab_CSR_address_logic
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_sgn_divider_TB.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_sgn_divider_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_sgn_divider_TB
+
+Top level modules:
+	aftab_sgn_divider_TB
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_mux2to1_2sel.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_mux2to1_2sel.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_mux2to1_2sel
+
+Top level modules:
+	aftab_mux2to1_2sel
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_divider.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_divider.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_divider
+
+Top level modules:
+	aftab_divider
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_shift_right_register.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_shift_right_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_shift_right_register
+
+Top level modules:
+	aftab_shift_right_register
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DARU_errorDetector.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_DARU_errorDetector.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_DARU_errorDetector
+
+Top level modules:
+	aftab_DARU_errorDetector
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_mux2to1.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_mux2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_mux2to1
+
+Top level modules:
+	aftab_mux2to1
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_counter.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_counter
+
+Top level modules:
+	aftab_counter
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_sulu.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_sulu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_sulu
+
+Top level modules:
+	aftab_sulu
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_BSU.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_BSU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_BSU
+-- Compiling module decoder
+
+Top level modules:
+	aftab_BSU
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_shift_left_register.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_shift_left_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_shift_left_register
+
+Top level modules:
+	aftab_shift_left_register
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/instruction_memory.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/instruction_memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module instruction_memory
+
+Top level modules:
+	instruction_memory
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_counter.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSR_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_CSR_counter
+
+Top level modules:
+	aftab_CSR_counter
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_booth_controller.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_booth_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_booth_controller
+
+Top level modules:
+	aftab_booth_controller
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_adder.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_adder
+
+Top level modules:
+	aftab_adder
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_signed_divider.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_signed_divider.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_signed_divider
+
+Top level modules:
+	aftab_signed_divider
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/factorial.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/factorial.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module factorial
+
+Top level modules:
+	factorial
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_booth_datapath.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_booth_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_booth_datapath
+
+Top level modules:
+	aftab_booth_datapath
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_divider_TB.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_divider_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_divider_TB
+
+Top level modules:
+	aftab_divider_TB
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_registerFile.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_registerFile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_registerFile
+
+Top level modules:
+	aftab_registerFile
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSRISL.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_CSRISL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_CSRISL
+
+Top level modules:
+	aftab_CSRISL
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/Accelerator.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/Accelerator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Accelerator
+
+Top level modules:
+	Accelerator
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_mux4to1.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_mux4to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_mux4to1
+
+Top level modules:
+	aftab_mux4to1
+
+} {} {}} E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_ICCD.v {1 {vlog -work work -stats=none E:/Courses/Semester8/Core/CAs/CA2/CA2/ModelSim/aftab_ICCD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aftab_ICCD
+
+Top level modules:
+	aftab_ICCD
+
+} {} {}}
